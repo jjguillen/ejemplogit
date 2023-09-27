@@ -2,3 +2,5 @@ Esto es un fichero de prueba de git
 Modificaciones varias durante un rato
 
 Tocado el fichero en la rama develop
+
+Tocado el fichero para hacer una fusión de ramas
